@@ -5,7 +5,7 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 It is very fast, very easy to install, written in C, so very portable. I run on MacOSX. It runs forwards and backwards, processing and annotating images very quickly - especially on a multi-GPU machine.
 
-For more information see the [Darknet project website](http://pjreddie.com/darknet).
+For more information see the [Darknet project website](http://pjreddie.com/darknet) or read the paper here. [Darknet paper ](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 # YOLO
