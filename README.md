@@ -9,3 +9,5 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 # YOLO
+
+You Only Look Once...Y ou only look once (YOLO) is a state-of-the-art, real-time object detection system. On a Titan X it processes images at 40-90 FPS and has a mAP on VOC 2007 of 78.6% and a mAP of 48.1% on COCO test-dev.
