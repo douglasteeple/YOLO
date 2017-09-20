@@ -1,9 +1,9 @@
 
 # Darknet: Open Source Neural Networks in C
 
-Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation. It was written by Joseph Chet Redmon, and I cloned his project and am making updates to it. THank you Jospeh!
+Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation. It was written by Joseph Chet Redmon, and I cloned his project and am making updates to it. Thank you Jospeh!
 
-It is very fast, very easy to install, written in C, so very portable. I run on MacOSX.
+It is very fast, very easy to install, written in C, so very portable. I run on MacOSX. It runs forwards and backwards, processing and annotating images very quickly - especially on a multi-GPU machine.
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
 
