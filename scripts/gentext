@@ -1,0 +1,2 @@
+#!/bin/bash
+darknet rnn generate cfg/rnn.cfg cfg/shakespeare.weights -srand 0

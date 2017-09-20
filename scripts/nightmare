@@ -1,0 +1,2 @@
+#!/bin/bash
+darknet nightmare cfg/vgg-conv.cfg cfg/vgg-conv.weights $1 13

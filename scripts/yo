@@ -1,1 +1,2 @@
-
+#!/bin/bash
+darknet nightmare cfg/jnet-conv.cfg cfg/jnet-conv.weights $1 11 -rounds 4 -range 3
